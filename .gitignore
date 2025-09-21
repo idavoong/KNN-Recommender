@@ -1,5 +1,1 @@
-/adventurer_metadata.parquet
-/app_opens.parquet
-/cancellations.parquet
-/content_metadata.parquet
-/subscriptions.parquet
+*.parquet
