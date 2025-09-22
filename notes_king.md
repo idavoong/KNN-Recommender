@@ -11,7 +11,7 @@
     - Soggy Hollow
     - Slurpington
 
-1. Valoron
+2. Valoron
 - Honor's Coil Kingdom
     - Narathil 
     - Shield Barrow
@@ -22,7 +22,7 @@
     - Gallantry Glade 
     - Maidenfall 
 
-1. Cottoria
+3. Cottoria
 - Butterhaven Kingdom
     - Greycliffs 
     - Jamshire 
